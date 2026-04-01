@@ -1,0 +1,2 @@
+Input YouTube Url to summarize,Summarized text,timestamp
+https://youtu.be/l00VBUXl1Q4?si=cOKCxojLwUuyKyFZ,An error occurred: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript',2026-04-02 02:32:57.524456
