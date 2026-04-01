@@ -1,4 +1,4 @@
-# 🎬 YouTube Video Summarizer (GenAI Project)
+# 🎬 YouTube Video Summarizer
 
 A simple yet powerful GenAI application that extracts transcripts from YouTube videos and generates concise summaries using transformer-based models.
 
@@ -122,16 +122,3 @@ Pull requests are welcome. For major changes, please open an issue first.
 
 ---
 
-## 📜 License
-
-This project is open-source and available under the MIT License.
-
----
-
-## 💡 Author
-
-Built as part of a GenAI learning project.
-
----
-
-> “From debugging chaos to working AI pipeline — this project reflects the real journey of building with GenAI.”
